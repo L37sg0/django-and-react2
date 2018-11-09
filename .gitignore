@@ -1,0 +1,9 @@
+## Django:
+./backend/backend/config.json
+./backend/backend/__pycache__
+.env
+.vscode
+./backend/db.sqlite3
+
+## React
+#npm-debug.log
